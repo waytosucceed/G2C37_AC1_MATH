@@ -1,0 +1,20 @@
+[
+  {
+    "questionNo": "Q5.",
+    "question": "Which shape in the painting has 3 vertices? ",
+    
+    "optionsImages": [
+      "./images/5.png",
+      "./images/6.png"
+    ],
+    "correct": 1,
+    "optionsAudio": [
+      "",
+      "",
+      "",
+      ""
+    ]
+  }
+      
+  ]
+  

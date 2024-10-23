@@ -1,0 +1,54 @@
+[
+    {
+        "questionNo": "Q1",
+        "question": "Count and tell the number of sides.",
+        "options": [
+            "5",
+            "4",
+            "3",
+            "2"
+        ],
+        "correct": 1,
+        "secondImg":"./images/1.png",
+        "explanation": "The given shape has 4 sides."
+    },
+    {
+        "questionNo": "Q2",
+        "question": "How many sides are there in the shape?",
+        "options": [
+            "4",
+            "4",
+            "5",
+            "6"
+        ],
+        "correct": 3,
+        "secondImg":"./images/2.png",
+        "explanation": "The given shape has 6 sides."
+    },
+    {
+        "questionNo": "Q3",
+        "question": "The hula hoop represents which shape?",
+        "options": [
+            "Square",
+            "Circle",
+            "Rectangle",
+            "Triangle"
+        ],
+        "correct": 1,
+        "secondImg":"./images/3.png",
+        "explanation": "The hula hoop is round in shape. So it represents a circle."
+    },
+    {
+        "questionNo": "Q4",
+        "question": "The sign board represents which shape?",
+        "options": [
+            "Square",
+            "Circle",
+            "Rectangle",
+            "Triangle"
+        ],
+        "correct": 3,
+        "secondImg":"./images/4.png",
+        "explanation": "The given sign board represents a triangle shape."
+    }
+]
